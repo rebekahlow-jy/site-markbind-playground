@@ -2,7 +2,7 @@
 
 # Markbind Playground
 
-### Testing Deployment to Github Pages
+### Testing Git Commands on Command Prompt!
 
 ###
 
