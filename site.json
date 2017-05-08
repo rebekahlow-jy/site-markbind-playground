@@ -9,8 +9,5 @@
   "ignore": [
     "_site/*",
     "site.json"
-  ],
-  "deploy": {
-    "message": "Site Update",
-  }
+  ]
 }
