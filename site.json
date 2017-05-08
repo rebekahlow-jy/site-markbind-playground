@@ -3,7 +3,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Hello World"
+      "title": "Markbind Playground"
     }
   ],
   "ignore": [
@@ -11,6 +11,8 @@
     "site.json"
   ],
   "deploy": {
-    "message": "Site Update."
+    "message": "Site Update",
+    "repo": "https://github.com/rebekahlow-jy/site-markbind-playground.git",
+    "branch": "test-deploy"
   }
 }
