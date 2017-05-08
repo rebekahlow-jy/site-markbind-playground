@@ -12,7 +12,5 @@
   ],
   "deploy": {
     "message": "Site Update",
-    "repo": "https://github.com/rebekahlow-jy/site-markbind-playground.git",
-    "branch": "test-deploy"
   }
 }
